@@ -1,6 +1,6 @@
 # Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou o Bruno, seja bem vindo (a) ao meu perfil
 
-<img src="https://komarev.com/ghpvc/?username=Elias-Neto&color=blue" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=wey-bruno&color=blue" alt="Profile views"/>
 
 - 🏛  Curso Análise e Desenvolvimento de Sistemas (UNISÃOMIGUEL)
 - 👨‍💻 Estudo **Desenvolvimento Frontend Web** (SENAI) 
