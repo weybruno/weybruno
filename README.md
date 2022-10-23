@@ -4,7 +4,7 @@
 
 - 🏛  Curso Análise e Desenvolvimento de Sistemas (UNISÃOMIGUEL)
 - 👨‍💻 Estudo **Desenvolvimento Frontend Web** (SENAI) 
-- 🚀 Sou amarradão em *aprender* mais sobre o universo da **Tecnologia** e da **Criação de Softwares**
+- 🚀 Sou apaixonado por **Tecnologia** e por *aprender* sobre o universo da **Tecnologia**
 
 <br>
 
