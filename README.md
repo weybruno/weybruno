@@ -20,9 +20,10 @@
 
 <br>
 
-<div align="center">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=wey-bruno&show_icons=true&theme=nord&include_all_commits=true&count_private=false"/>
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wey-bruno&layout=compact&langs_count=7&theme=nord"/>
+<div>
+  <a href="https://github.com/weybruno">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=weybruno&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weybruno&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
  
   ### Minhas redes sociais abaixo!
