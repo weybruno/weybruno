@@ -4,7 +4,7 @@
 
 - 🏛  Curso Análise e Desenvolvimento de Sistemas (UNISÃOMIGUEL)
 - 👨‍💻 Estudo **Desenvolvimento Frontend Web** (SENAI) 
-- 🚀 Sou apaixonado por **Tecnologia** e por *aprender* sobre o universo da **Tecnologia**
+- 🚀 Sou apaixonado por **Desenvolver* e por *aprender* sobre o universo da **Tecnologia**
 
 <br>
 
@@ -13,10 +13,9 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JAVASCRIPT&logoColor=EFD81D)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=FIGMA)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 
 <br>
 
