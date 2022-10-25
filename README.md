@@ -10,13 +10,13 @@
 
 ## 🛠 Tech Stack
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JAVASCRIPT&logoColor=EFD81D)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=FIGMA)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 <br>
 
