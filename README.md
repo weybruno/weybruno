@@ -7,7 +7,7 @@
 
 <br>
   
-- 🏛  Curso Análise e Desenvolvimento de Sistemas (UNISÃOMIGUEL)
+- 🏛  Estou no 2º Período da Graduação em Análise e Desenvolvimento de Sistemas (UNISÃOMIGUEL)
 - 👨‍💻 Estudo **Desenvolvimento Frontend Web** (SENAI) 
 - 🚀 Sou apaixonado por **Desenvolver** e por *aprender* sobre o universo da **Tecnologia**
 
