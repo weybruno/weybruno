@@ -1,7 +1,9 @@
-# Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou o Bruno, seja bem vindo (a) ao meu perfil
-
-<img src="https://komarev.com/ghpvc/?username=wey-bruno&color=blue" alt="Profile views"/>
-
+## Opa <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou o Bruno, Desenvoldedor Frontend Web!
+<div align="center">
+  <a href="https://github.com/weybruno">
+<img height="180em" src="[https://komarev.com/ghpvc/?username=](https://github-readme-stats.vercel.app/api?username=)weybruno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+  
 - 🏛  Curso Análise e Desenvolvimento de Sistemas (UNISÃOMIGUEL)
 - 👨‍💻 Estudo **Desenvolvimento Frontend Web** (SENAI) 
 - 🚀 Sou apaixonado por **Desenvolver** e por *aprender* sobre o universo da **Tecnologia**
