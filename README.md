@@ -2,7 +2,7 @@
 <div align="left">
   <a href="https://github.com/weybruno">
   <img height="180em" 
-       src="https://github-readme-stats.vercel.app/api?username=weybruno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+       src="https://github-readme-stats.vercel.app/api?username=weybruno&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
 <br>
@@ -23,12 +23,6 @@
 <!-- ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) -->
 
 <br>
-
-<div>
-  <a href="https://github.com/weybruno">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=weybruno&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weybruno&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
  
   ### Minhas redes sociais:
  
