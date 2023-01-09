@@ -11,7 +11,6 @@
 - 👨‍💻 Estudo **Desenvolvimento Frontend Web** (SENAI) 
 - 🚀 Sou apaixonado por **Desenvolver** e por *aprender* sobre o universo da **Tecnologia**
 
-<br>
   
 ### 🛠 Tech Stack
 
