@@ -1,10 +1,4 @@
 ## Opa eu sou o Weydson Bruno, Desenvoldedor Frontend Web!
-<div align="left">
-  <a href="https://github.com/weybruno">
-  <img height="180em" 
-       src="https://github-readme-stats.vercel.app/api?username=weybruno&show_icons=true&theme=black&include_all_commits=true&count_private=true"/>
-</div>
-
 <br>
   
 - 🏛  Estou no 2º Período da Graduação em Análise e Desenvolvimento de Sistemas (UNISÃOMIGUEL)
